@@ -1,11 +1,11 @@
 LW126-WBT-202-Tools
 ===================
 
-Some tools scripts to work with the WBT 202 GPS Tracker
+Some tools/scripts to work with the [WBT 202 GPS](http://www.wintec-gps.de/wintec_wbt-202.php) Tracker on Mac OSX
 
 this is mostly a fork of https://gist.github.com/y-namiki/3248436  
 
-Only thing I did is adding a folder creation on the desktop.
+Only thing I did is adding a folder creation on the desktop.  
 
 ##Prerequisites  
 
